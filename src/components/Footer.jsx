@@ -9,7 +9,7 @@ export default function Footer() {
         <a href="https://linkedin.com/in/tuusuFenfiaario" target="_blank">
           <i className="fab fa-linkedin"></i>
         </a>
-        <a href="mailto:tuemail@gmail.com">
+        <a href="mailto:dcp00@iesemilidarder.com">
           <i className="fas fa-envelope"></i>
         </a>
       </div>
